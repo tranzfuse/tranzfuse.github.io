@@ -15,10 +15,13 @@ a:hover {
   margin-bottom: 20px;
 }
 
-#experiments {
+.experiments {
+  padding-bottom: 20px;
+}
+
+.experiments.dark {
   background-color: #000;
   color: #fff;
-  padding-bottom: 20px;
 }
 
 .experiment-link {
