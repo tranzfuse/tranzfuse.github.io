@@ -5,6 +5,10 @@ a:hover {
   color: hotpink;
 }
 
+#logo {
+  margin-bottom: 20px;
+}
+
 .experiments-title {
   margin-bottom: 20px;
 }
