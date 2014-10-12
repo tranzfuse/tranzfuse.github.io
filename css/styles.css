@@ -12,13 +12,14 @@ a:hover {
 #experiments {
   background-color: #000;
   color: #fff;
+  padding-bottom: 20px;
 }
 
 .experiment-link {
   display: inline-block;
 }
 .experiment-name {
-  margin: 5px 0;
+  margin: 10px 0 5px;
 }
 .experiment-description {
   margin-bottom: 0;
