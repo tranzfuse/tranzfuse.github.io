@@ -2,7 +2,9 @@ a {
   color: hotpink;
 }
 a:hover {
-  color: hotpink;
+  background-color: hotpink;
+  color: #000;
+  text-decoration: none;
 }
 
 #logo {
