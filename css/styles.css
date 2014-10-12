@@ -1,3 +1,17 @@
+a {
+  color: hotpink;
+}
+a:hover {
+  color: hotpink;
+}
+
+#experiments {
+  background-color: #000;
+  color: #fff;
+}
+
+
+
 .experiment-link {
   display: block;
 }
