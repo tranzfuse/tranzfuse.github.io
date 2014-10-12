@@ -5,13 +5,21 @@ a:hover {
   color: hotpink;
 }
 
+.experiments-title {
+  margin-bottom: 20px;
+}
+
 #experiments {
   background-color: #000;
   color: #fff;
 }
 
-
-
 .experiment-link {
-  display: block;
+  display: inline-block;
+}
+.experiment-title {
+  margin: 5px 0;
+}
+.experiment-description {
+  margin-bottom: 0;
 }
