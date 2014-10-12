@@ -25,6 +25,7 @@
   color: #fff;
 }
 .experiments.dark a {
+  border-bottom-color: hotpink;
   color: hotpink;
 }
 .experiments.dark a:hover {
