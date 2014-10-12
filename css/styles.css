@@ -16,6 +16,9 @@ a:hover {
 .experiments {
   padding-bottom: 20px;
 }
+.experiments a {
+  color: #000;
+}
 .experiments a:hover {
   background-color: #000;
   color: #fff;
