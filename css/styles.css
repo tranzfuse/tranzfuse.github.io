@@ -35,6 +35,8 @@
 
 .experiment-link {
   display: inline-block;
+  border-bottom: none;
+  padding-bottom: 0;
 }
 .experiment-name {
   margin: 10px 0 5px;
